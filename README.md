@@ -10,10 +10,10 @@ i could calculate the relative distances between 3 points
 calculating the distance between the 1 and 2, 2 and 3,
 and 1 and 3.
 
-But... we can compute as many dimensions as we want, because the
-generalized formula for euclidean distance is a summation, that
+But... we can compute as many dimensions as we want, and that's because the
+generalized formula for the euclidean distance is a sum, and that
 means we can do it as far as we want, and there are no restraints
-about the number of points, using one formula of graph theory,
+about the number of points. Using one formula of graph theory,
 some for loops, i did it in the most ineficiant way, but i did it.
 
 This is the code, and i'm happy i did it, i learned a lot about
@@ -23,7 +23,7 @@ but for now i have this code and wanted for it to be public.
 
 ## Some small note
 
-I also did some research and foun that these calculations are used
+I also did some research and found that these calculations are used
 in machine learning and hipotetical euclidian espaces can have points that
 can represent a lot of things, and their distance apart can measure how equal they are,
-and a lot about all of that, and diferent metrics and etc.
+and a lot about all of that, and diferent metrics and others...
